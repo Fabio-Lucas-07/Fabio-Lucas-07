@@ -32,8 +32,8 @@
 <div align="left">
   <h2>📊 Estatísticas</h2>
   <div align="center">
-    <a href="https://github.com/Fabio-Lucas-07"><img src="https://github-readme-stats.vercel.app/api?username=Fabio-Lucas-07&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&text_color=ffffff&icon_color=ff9f43&title_color=fabb35" height="160" /></a>
-    <a href="https://github.com/Fabio-Lucas-07"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-Lucas-07&layout=compact&langs_count=7&theme=transparent&hide_border=true&text_color=ffffff&icon_color=82ca9d&title_color=82ca9d" height="160" /></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=Fabio-Lucas-07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="Estatísticas do GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-Lucas-07&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" height="160" alt="Linguagens mais usadas" />
   </div>
 </div>
 
