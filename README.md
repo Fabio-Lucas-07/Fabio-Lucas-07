@@ -30,7 +30,7 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <h2>Estatísticas</h2>
   <div align="center">
     <a href="https://github.com/Fabio-Lucas-07"><img src="https://github-readme-stats.vercel.app/api?username=Fabio-Lucas-07&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&text_color=ffffff&icon_color=ff9f43&title_color=fabb35" height="160" /></a>
@@ -38,7 +38,7 @@
   </div>
 </div>
 
-<br>
+<br> -->
 
 <div align="center">
   <h2>Contribuições</h2>
