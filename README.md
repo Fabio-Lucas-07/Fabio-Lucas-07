@@ -1,6 +1,5 @@
 <div align="left">
   <h1>Prazer, eu sou o Fábio Lucas 👋</h1>
-  <p>Desenvolvedor Full Stack atuando com back-end (Java, Spring Boot) e front-end (TypeScript, React).</p>
 </div>
 
 <br>
@@ -19,7 +18,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS" />&nbsp;
-    <img src="https://api.iconify.design/simple-icons:shadcnui.svg" height="40" alt="Shadcn/ui" />&nbsp;
+    <img src="https://cdn.simpleicons.org/shadcnui/white" height="40" alt="Shadcn/ui" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />&nbsp;
