@@ -20,7 +20,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="70" alt="TypeScript" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70" alt="React" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="70" alt="TailwindCSS" />&nbsp;
-    <img src="https://cdn.simpleicons.org/shadcnui/white" height="70" alt="Shadcn/ui" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70" alt="Java" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="70" alt="Spring Boot" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="70" alt="PostgreSQL" />&nbsp;
